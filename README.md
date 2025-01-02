@@ -10,6 +10,7 @@ Welcome to my GitHub profile!
 ## 🌟 About Me
 
 I am passionate about creating innovative software solutions, exploring open-source contributions, and solving challenging problems. I specialize in embedded systems, debugging tools, and RTOS.
+
 [![Anjiahao1's GitHub stats](https://github-readme-stats.vercel.app/api?username=anjiahao1&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📊 Languages Used
